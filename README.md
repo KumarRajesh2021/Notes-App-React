@@ -107,9 +107,9 @@ It's better to use package.json inside of all Components folder with a `name` ta
 ### Run 
 
 
-run the command below:
-
-- `npm run build`
+run the command to deploy the pages below:
+-npm install gh-pages
+-npm run deploy
 
 
 

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Notes-App-React/static/css/main.34de6062.chunk.css",
+    "main.js": "/Notes-App-React/static/js/main.b952208a.chunk.js",
+    "main.js.map": "/Notes-App-React/static/js/main.b952208a.chunk.js.map",
+    "runtime-main.js": "/Notes-App-React/static/js/runtime-main.5a57a738.js",
+    "runtime-main.js.map": "/Notes-App-React/static/js/runtime-main.5a57a738.js.map",
+    "static/js/2.1a6086c9.chunk.js": "/Notes-App-React/static/js/2.1a6086c9.chunk.js",
+    "static/js/2.1a6086c9.chunk.js.map": "/Notes-App-React/static/js/2.1a6086c9.chunk.js.map",
+    "index.html": "/Notes-App-React/index.html",
+    "precache-manifest.3be18f261de6627be4d3bb672b91b78e.js": "/Notes-App-React/precache-manifest.3be18f261de6627be4d3bb672b91b78e.js",
+    "service-worker.js": "/Notes-App-React/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/Notes-App-React/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a57a738.js",
+    "static/js/2.1a6086c9.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.b952208a.chunk.js"
+  ]
+}

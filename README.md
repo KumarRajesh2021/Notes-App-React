@@ -1,7 +1,7 @@
 ## Notes App - React with LocalStorage
 
 Link:
-https://github.com/KumarRajesh2021/Notes-App-React
+https://kumarrajesh2021.github.io/Notes-App-React/
 
 #### File Structure 
 

@@ -37,60 +37,57 @@ so, `statemanagement` and `Utils` should be on the `src` root.
   |   ├── showModal.js
 ...
 
-#### Commands
+## Commands
 
-##### Run
+### Project Run
 
 The command to run  project on 3000 port.
 
 `npm run start`
 
-##### Build
+### Build
 
 The command to build project in `build` folder.
 
 `npm run build`
 
-##### Test
+### Test
 
 The command to run unit tests.
 
 `npm run test`
 
-##### Prettier
+### Prettier
 
 The command to run Prettier to make codes Pretty with nice indents.
 
 `npm run prettier`
 
-##### ES Lint
+### ES Lint
 
 The command to run ESLint .
 
 `npm run lint`
 
-#### Husky (Git webhook) 
+#### Husky(Git webhook) 
 
 Husky is a tool to make webhooks on Github.
 I make a Webhook to run prettier and ESLint before pushing.
 
-#### Architecture :fire::fire:
+### Design
 
-- ##### Styling 
+### Styling 
 
 I am  using`Material-UI` because of the JSS and rendering performances in new hooks features. :sunglasses:
 
-- ##### Components 
+### Components 
 
 Components are following the `First Feature` structure. experimentaly, this structure helps to organizing your application and develop it with a team of React developers
 
-- ##### State management 
+### State management 
 
 The state management in this project is, Context API.
-
-
 It's better to use package.json inside of all Components folder with a `name` tag to explain a detail for that component.
-
 
 
 ### Features 
@@ -104,9 +101,7 @@ It's better to use package.json inside of all Components folder with a `name` ta
 -- Move notes trough categories.
 -- Using localStorage to store notes.
 
-### Run 
-
-
+### Run build
 run the command to deploy the pages below:
 -npm install gh-pages
 -npm run deploy

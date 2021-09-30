@@ -1,6 +1,10 @@
 ## Notes App - React with LocalStorage
 
+Link:
+https://github.com/KumarRajesh2021/Notes-App-React
+
 #### File Structure 
+
 
 The structure of the project is Feature First Design pattern.
 we see that all of the files are related to the one `components` component and each folder has own styles.
